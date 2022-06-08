@@ -1,10 +1,3 @@
-# PyPI CDN Log Archiver
-
-1. Get raw logs from S3 like object store, written by the cdn
-2. Archive and compress them
-3. Upload archive back to S3 like object store, in a sane structure
-4. Remove raw logs that were archived
-
 # Usage
 
 You'll need to export some env variables to get started:
